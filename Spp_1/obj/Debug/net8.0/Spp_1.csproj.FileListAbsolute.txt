@@ -1,0 +1,14 @@
+/home/gregster/RiderProjects/Spp_1/Spp_1/bin/Debug/net8.0/Spp_1
+/home/gregster/RiderProjects/Spp_1/Spp_1/bin/Debug/net8.0/Spp_1.deps.json
+/home/gregster/RiderProjects/Spp_1/Spp_1/bin/Debug/net8.0/Spp_1.runtimeconfig.json
+/home/gregster/RiderProjects/Spp_1/Spp_1/bin/Debug/net8.0/Spp_1.dll
+/home/gregster/RiderProjects/Spp_1/Spp_1/bin/Debug/net8.0/Spp_1.pdb
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.AssemblyInfoInputs.cache
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.AssemblyInfo.cs
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.csproj.CoreCompileInputs.cache
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.dll
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/refint/Spp_1.dll
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.pdb
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/Spp_1.genruntimeconfig.cache
+/home/gregster/RiderProjects/Spp_1/Spp_1/obj/Debug/net8.0/ref/Spp_1.dll
